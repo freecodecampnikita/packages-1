@@ -3,6 +3,7 @@
 	"author": "Nikita Saprinskiy",
 	"description": "A project that does something awesome",
 	"license": "ExampleLicense",
+	"version": "1.2.0",
 	"keywords": [ "freecodecamp", "microservice", "guide" ],
 	"dependencies": {
 		"express": "^4.14.0"
