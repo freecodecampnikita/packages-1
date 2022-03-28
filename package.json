@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Nikita Saprinskiy",
 	"description": "A project that does something awesome",
-	"keywords": [ "descriptive", "related", "words", "freecodecamp" ],
+	"keywords": [ "freecodecamp", "microservice", "guide" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
